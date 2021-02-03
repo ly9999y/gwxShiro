@@ -19,10 +19,16 @@ C03-03 字符串通配符权限API演示
 
 C03-04 自定义Authorizer、PermissionResolver及RolePermissionResolver
 
-C03-05 自定义Authorizer、PermissionResolver及RolePermissionResolver从数据库读取
+C03-05 JDBC 自定义Authorizer、PermissionResolver及RolePermissionResolver 
 
 C04-01 无配置文件配置
 
 C04-02 同效果ini配置演示
 
 C04-03 ini文件使用演示
+
+C05-01 加密算法演示
+
+C05-02 PasswordService/CredentialsMatcher
+
+C05-03 JDBC PasswordService/CredentialsMatcher
